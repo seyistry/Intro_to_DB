@@ -1,0 +1,4 @@
+![source alx](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/7/d057f8bee0bae22bf5ceda7b107a47a634fe036f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240728%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240728T215523Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5ff32870c8834bfdff867d0a980ebdf4abeef6973a1361aa4b89b3965b6811d8)
+This project is designed to introduce you to the foundational concepts and practical skills necessary to work with databases effectively.
+
+The journey begins with understanding what a database is, the different types of databases, and an introduction to SQL (Structured Query Language). You’ll explore essential SQL operations such as creating, reading, updating, and deleting data (CRUD operations) and advance to more sophisticated SQL techniques. 
